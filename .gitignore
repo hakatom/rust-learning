@@ -1,1 +1,10 @@
 **/.rustc_info.json
+**.bin
+**.rmeta
+**.d
+**.lock
+**test-bin**
+**.timestamp
+**dep-bin**
+**bin-**
+**.TAG
