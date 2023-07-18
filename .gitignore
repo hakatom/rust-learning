@@ -8,3 +8,7 @@
 **dep-bin**
 **bin-**
 **.TAG
+**.o
+**/debug/deps**
+**.cargo-lock
+**target
